@@ -1,0 +1,24 @@
+# Javascript Problems and their Top 5 NPM Libraries
+
+We are trying to rank the top 5 common javascript libraries that solve real problems that developers run into.
+
+## Why a Javascript Developer for Data Entry at this Rate?
+
+We need a capable javascript developer to practice running searches for NPM libraries to solve his front-end developer problems and to log *what the top 5 results should have been in a perfect world*. To perform this task you must be a real javascript developer, otherwise, queries will not be able to evaluate what are the top 5 results. We need you for your mind! Note that if you are great, we always need javascript developers so that works too!
+
+## Performing the Task
+
+The kind of questions we are interested in may be described in a sentence like this: **"I have a problem while front end programming. I need a library to solve this problem. What is the best library for this problem for my project?"**
+
+The answer to this question is this: **"Using my judgment as a developer, library A is the very best that solves my problem, so it goes in column one.** The second-best solution to my problem is library B, which goes in column 2...
+
+You will be given a Google Sheet with labeled columns and some example data. The sheet is here (this link is view only, you will be given a link to edit once you win the contract): https://docs.google.com/spreadsheets/d/1tFCBqTWTeqpWhhGS4paBTPtBNhEO2709DlY_foGUQzs/edit?usp=sharing
+
+It is your mission if you choose to accept it to:
+
+1) Come up with many real-world javascript searches for solutions to problems that can be solved by NPM libraries
+2) Use a common search engine to find the top 5 best npm libraries that solve that problem. Note: keep the original query in mind, but don't limit yourself to that query alone. If you have to use other queries to find the answer, that is ok! Just make sure the results are what you SHOULD have gotten for the original query, if the search engine worked perfectly and just like your mind!
+3) For each library, use the search box at https://www.npmjs.com to find its official NPM url.
+4) Enter these top 5 results in order into the 5 columns in the Google Sheet for that query's row. ANSWERS MUST BE THE FULL WORKING URL TO THE NPM LIBRARY, such as "https://www.npmjs.com/package/bootstrap"
+
+For example, "twitter css library" would be a good search query for the npm module bootstrap, so we would put the url "https://www.npmjs.com/package/bootstrap" as the top 1 answer. 
